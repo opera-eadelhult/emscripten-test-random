@@ -1,4 +1,6 @@
 # Setup
+Install [Emscripten](https://emscripten.org/docs/getting_started/downloads.html).
+
 Download the secure-random dependency
 ```bash
 go run github.com/piot/deps/src/deps@main fetch
